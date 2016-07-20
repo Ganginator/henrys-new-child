@@ -1,0 +1,89 @@
+/*------------------------------------------------------------------
+[Table of contents]
+
+	Theme Options
+		Menus
+		Redux
+		Revolution Slider 
+		
+[/Table of contents]
+-------------------------------------------------------------------*/
+
+
+/**********************************************************************************/
+/* Theme Options ******************************************************************/
+/**********************************************************************************/
+
+/* Menus */
+
+.menu .menu-item .field-background-url {
+	display:none;
+}
+
+.menu .menu-item-depth-0 .field-background-url {
+	display:block;
+}
+
+/* Redux */
+
+#wp-admin-bar-theme_options .dashicons-portfolio:before {
+	content: "\f108";
+	top:2px;
+}
+
+#adminmenu #toplevel_page_theme_options .menu-icon-generic div.wp-menu-image:before {
+	content: "\f108";
+}
+
+.redux-container-image_select .redux-image-select img {
+	width:96px !important;
+	height:72px !important;
+	max-height:72px !important;
+}
+
+.redux-sidebar .redux-group-menu li a {
+	opacity: 1;
+	font-weight: normal;
+}
+
+.redux_field_th .fa {
+    margin-right:   10px;
+}
+
+.redux_field_th span:first-child {
+    color: #7f7f7f !important;
+}
+
+.redux-info-field h3 {
+    color: #333 !important;
+}
+
+.redux-info-field h3 .fa {
+    margin-right: 5px;
+    color: #333 !important;  
+}
+
+.redux-main .form-table tr:nth-last-child(1){
+    border-bottom: 0px;
+}
+
+.redux-main .form-table tr th, .redux-main .form-table tr td {
+    padding: 0px 0px 20px 20px;
+}
+
+.redux_field_th {
+    padding: 40px 10px 20px 0px !important;
+}
+
+.redux-container #redux-header .display_header h2 {
+    text-transform: uppercase;
+    font-weight: 900;
+    padding-left: 30px;  
+}    
+
+
+/* Revolution Slider */
+
+.rs-update-notice-wrap {
+	display:none !important;
+}

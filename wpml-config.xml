@@ -1,0 +1,150 @@
+<wpml-config>
+  <admin-texts>
+    <key name="houseofcoffee_theme_options">
+      <key name="last_tab"/>
+      <key name="favicon">
+        <key name="url"/>
+        <key name="id"/>
+        <key name="height"/>
+        <key name="width"/>
+        <key name="thumbnail"/>
+      </key>	  
+	  <key name="main_header_layout"/>
+	  <key name="main_header_navigation_position_header_1"/>
+	  <key name="main_header_navigation_position_header_2"/>
+	  <key name="main_header_font_size"/>
+	  <key name="main_header_font_color"/>
+	  <key name="spacing_above_logo"/>
+	  <key name="spacing_below_logo"/>
+	  <key name="header_width"/>
+	  <key name="header_max_width"/>
+	  <key name="main_header_background"/>
+	  <key name="main_header_wishlist"/>
+	  <key name="main_header_wishlist_icon">
+        <key name="url"/>
+        <key name="id"/>
+        <key name="height"/>
+        <key name="width"/>
+        <key name="thumbnail"/>
+      </key>
+	  <key name="main_header_shopping_bag"/>
+	  <key name="main_header_shopping_bag_icon">
+        <key name="url"/>
+        <key name="id"/>
+        <key name="height"/>
+        <key name="width"/>
+        <key name="thumbnail"/>
+      </key>
+	  <key name="main_header_search_bar"/>
+	  <key name="main_header_search_bar_icon">
+        <key name="url"/>
+        <key name="id"/>
+        <key name="height"/>
+        <key name="width"/>
+        <key name="thumbnail"/>
+      </key>
+	  <key name="main_header_off_canvas"/>
+	  <key name="main_header_off_canvas_icon">
+        <key name="url"/>
+        <key name="id"/>
+        <key name="height"/>
+        <key name="width"/>
+        <key name="thumbnail"/>
+      </key>
+	  <key name="site_logo">
+        <key name="url"/>
+        <key name="id"/>
+        <key name="height"/>
+        <key name="width"/>
+        <key name="thumbnail"/>
+      </key>
+	  <key name="sticky_header_logo">
+        <key name="url"/>
+        <key name="id"/>
+        <key name="height"/>
+        <key name="width"/>
+        <key name="thumbnail"/>
+      </key>
+	  <key name="logo_min_height"/>
+	  <key name="logo_height"/>
+	  <key name="main_header_transparency"/>
+	  <key name="main_header_transparency_scheme"/>
+	  <key name="main_header_transparent_light_color"/>
+	  <key name="light_transparent_header_logo">
+        <key name="url"/>
+        <key name="id"/>
+        <key name="height"/>
+        <key name="width"/>
+        <key name="thumbnail"/>
+      </key>
+	  <key name="main_header_transparent_dark_color"/>
+	  <key name="dark_transparent_header_logo">
+        <key name="url"/>
+        <key name="id"/>
+        <key name="height"/>
+        <key name="width"/>
+        <key name="thumbnail"/>
+      </key>
+	  <key name="top_bar_switch"/>
+	  <key name="top_bar_background_color"/>
+	  <key name="top_bar_typography"/>
+	  <key name="top_bar_text"/>
+	  <key name="top_bar_navigation_position"/>
+	  <key name="top_bar_social_icons"/>
+	  <key name="sticky_header"/>
+	  <key name="sticky_header_background_color"/>
+	  <key name="sticky_header_color"/>
+	  <key name="footer_background_color"/>
+	  <key name="footer_texts_color"/>
+	  <key name="footer_links_color"/>
+	  <key name="footer_social_icons"/>
+	  <key name="footer_copyright_text"/>
+	  <key name="catalog_mode"/>
+	  <key name="breadcrumbs"/>
+	  <key name="products_per_column"/>
+	  <key name="products_per_page"/>
+	  <key name="sidebar_style"/>
+	  <key name="second_image_product_listing"/>
+	  <key name="ratings_catalog_page"/>
+	  <key name="product_gallery_zoom"/>
+	  <key name="related_products"/>
+	  <key name="sharing_options"/>
+	  <key name="review_tab"/>
+	  <key name="body_color"/>
+	  <key name="headings_color"/>
+	  <key name="main_color"/>
+	  <key name="main_background"/>
+	  <key name="font_source"/>
+	  <key name="font_google_code"/>
+	  <key name="font_typekit_kit_id"/>
+	  <key name="main_font"/>
+	  <key name="main_google_font_face"/>
+	  <key name="main_typekit_font_face"/>
+	  <key name="secondary_font"/>
+	  <key name="secondary_google_font_face"/>
+	  <key name="secondary_typekit_font_face"/>
+	  <key name="facebook_link"/>
+	  <key name="twitter_link"/>
+	  <key name="pinterest_link"/>
+	  <key name="linkedin_link"/>
+	  <key name="googleplus_link"/>
+	  <key name="rss_link"/>
+	  <key name="tumblr_link"/>
+	  <key name="instagram_link"/>
+	  <key name="youtube_link"/>
+	  <key name="vimeo_link"/>
+	  <key name="behance_link"/>
+	  <key name="dribble_link"/>
+	  <key name="flickr_link"/>
+	  <key name="git_link"/>
+	  <key name="skype_link"/>
+	  <key name="weibo_link"/>
+	  <key name="foursquare_link"/>
+	  <key name="soundcloud_link"/>
+	  <key name="custom_css"/>
+	  <key name="header_js"/>
+	  <key name="footer_js"/>	  
+      <key name="REDUX_last_saved"/>
+    </key>
+  </admin-texts>
+</wpml-config>
