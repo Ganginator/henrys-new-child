@@ -93,6 +93,7 @@ if ( $order ) : ?>
             
         </div><!-- .medium-10-->
     </div><!--	.row	-->
+	
 
 <?php else : ?>
 	<div class="row">

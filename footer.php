@@ -317,6 +317,11 @@
     <?php if ( (isset($houseofcoffee_theme_options['footer_js'])) && ($houseofcoffee_theme_options['footer_js'] != "") ) : ?>
 		<?php echo $houseofcoffee_theme_options['footer_js']; ?>
     <?php endif; ?>
+    
+    <!-- Additional Tracking Scripts -->
+    <?php if(get_field('tracking_scripts')): ?>
+		<?php the_field('tracking_scripts'); ?>
+	<?php endif; ?>
 	
     <!-- ******************************************************************** -->
     <!-- * WP Footer() ****************************************************** -->

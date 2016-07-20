@@ -6,7 +6,7 @@
  *
  * @author 		WooThemes
  * @package 	WooCommerce/Templates
- * @version     2.2.0
+ * @version     2.3.10
  */
 
 if ( ! defined( 'ABSPATH' ) ) {
@@ -82,10 +82,12 @@ if ( $customer_orders ) : ?>
 							);
 
 							$actions = apply_filters( 'woocommerce_my_account_my_orders_actions', $actions, $order );
-
+// 
 							if ($actions) {
 								foreach ( $actions as $key => $action ) {
+									if(esc_html( $action['name'] ) != "View invoice") {
 									echo '<a href="' . esc_url( $action['url'] ) . '" class="account_view_link ' . sanitize_html_class( $key ) . '">' . esc_html( $action['name'] ) . '</a>';
+									}
 								}
 							}
 						?>
